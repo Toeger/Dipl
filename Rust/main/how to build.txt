@@ -1,0 +1,2 @@
+Install Rust through https://www.rust-lang.org/learn/get-started
+Run `cargo run` in this directory.
