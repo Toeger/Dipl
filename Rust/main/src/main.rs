@@ -1,3 +1,4 @@
+//tested on rustc 1.34.0-nightly (e1c6d0057 2019-02-22) with crossbeam 0.7.1
 //See ../how to build.txt
 
 extern crate crossbeam;
