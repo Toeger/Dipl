@@ -1,4 +1,4 @@
-// compile with for example g++ -std=c++17 thread_pool_variant.cpp -pthread
+// compile with for example g++ -std=c++17 static_thread_pool_variant.cpp -pthread
 
 #include "TSSTP/thread_pool.hpp"
 #include <future>
