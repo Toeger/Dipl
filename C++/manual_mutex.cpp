@@ -7,7 +7,7 @@
 int main() {
 	using Data = int;
 
-	Data data;
+	Data data{};
 	data += 1; //access without mutex protection
 	std::mutex mutex;
 	std::thread worker([&data, &mutex] {
